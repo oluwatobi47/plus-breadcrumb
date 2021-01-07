@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/plus-breadcrumb/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/plus-breadcrumb/tsconfig.spec.json"
+    }
+]
 }
